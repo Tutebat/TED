@@ -1,0 +1,141 @@
+@charset "utf-8";
+#Contenedor {
+    height: 900px;
+    width: 100%;
+}
+#Encabezado {
+    height: 100px;
+    width: 100%;
+    background-color: #13420C;
+    border-color: #598047;
+    color: #FFFFFF;
+    text-indent: 0;
+    text-align: center;
+    border-width: thick;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-size: 60px;
+}
+#Contenedor2 {
+    height: 100px;
+    width: 100%;
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+#TED1 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #175E1D;
+}
+#TED2 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #175E1D;
+}
+#TED3 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #175E1D;
+}
+#Contednedor3 {
+    height: 500px;
+    width: 100%;
+}
+#TED1.1 {
+    height: 500px;
+    width: 33.33%;
+}
+#TED4 {
+    float: left;
+    height: 500px;
+    width: 33.33%;
+    font-size: 31px;
+}
+#TED5 {
+    float: left;
+    height: 500px;
+    width: 33.33%;
+    font-size: 29px;
+}
+#TED6 {
+    float: left;
+    height: 500px;
+    width: 33.33%;
+    font-size: 33px;
+}
+#MenúTED {
+    float: left;
+    height: 100px;
+    width: 25%;
+}
+#CONTENIDO3 {
+    float: left;
+    height: 100px;
+    width: 75%;
+}
+#Contenedor4 {
+    height: 200px;
+    width: 100%;
+}
+#tedyjhon {
+    height: 100px;
+    width: 100%;
+}
+#T3D {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #3D7840;
+}
+#TEDYJHON1 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+}
+#TEDYJHON2 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #3D7840;
+}
+
+#TEDPIE {
+    float: left;
+    height: 100px;
+    width: 100%;
+}
+#TEDA {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+}
+#TED100 {
+    float: left;
+    height: 100px;
+    width: 33.33%;
+    background-color: #3D7840;
+    font-size: 15px;
+}
+#TEDPIEINFO {
+    float: left;
+    height: 100px;
+    width: 100%;
+}
+#TEDPIE {
+    height: 100px;
+    width: 100%;
+    background-color: #628863;
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 16px;
+    text-align: left;
+    letter-spacing: 0;
+}
